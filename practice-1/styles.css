@@ -206,26 +206,27 @@ body {
     margin: 5px;
   }
   .modal-input {
-    width: 250px;
+    width: 290px;
   }
   .modal-input__nolabel {
-    width: 250px;
+    width: 290px;
   }
   .modal-input__nolabel:last-child {
     padding: 22px 0px 8px 17px;
   }
   .modal__select {
-    width: 268px;
+    width: 308px;
   }
+
   .modal-button__send {
-    width: 268px;
+    width: 308px;
     margin: 5px;
   }
   .modal-link__cancel {
     margin-left: -20px;
   }
   .select__arrow {
-    right: 60px;
+    right: 20px;
   }
   #org {
     top: 225px;
@@ -233,5 +234,9 @@ body {
   .modal-form__upload {
     float: inline-start;
     margin-bottom: 20px;
+    margin-left: 70px;
+  }
+  .file_input__label {
+    margin-left: 0;
   }
 }
